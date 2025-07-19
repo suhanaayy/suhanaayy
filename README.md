@@ -1,7 +1,7 @@
-<!-- Layout: Name & Tagline Centered, Meme on Right -->
+<!-- Top Layout with Centered Text and Right GIF -->
 <table width="100%">
   <tr>
-    <!-- Text Column -->
+    <!-- Left (or centered) text -->
     <td width="75%">
       <h1 align="center">Hi, I'm Suhani 👩‍💻</h1>
 
@@ -10,7 +10,7 @@
       </p>
     </td>
 
-    <!-- Meme GIF Column -->
+    <!-- Right-side meme GIF -->
     <td align="right" width="25%">
       <img src="https://media.giphy.com/media/2c1KjuCQTaZgc/giphy.gif" width="150" alt="meme gif" />
     </td>
