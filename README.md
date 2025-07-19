@@ -47,35 +47,17 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanaayy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanaayy&layout=compact&theme=radical" width="45%" />
-</p>
-
----
 
 ### 👩‍🎓 About Me
 
 - 🎓 Engineering student @ Thapar Institute (CGPA 8.49)
 - 💡 Exploring AI through real-world projects
 - 🔬 SDE Intern @ Healthkart (2024)
-- 📈 Projects: Parkinson's Detection, MediMatch, Twitter Sentiment Analysis
-- 🌱 Learning: React.js, Docker, GSAP animations
-- 🧠 Interests: AI for healthcare, NLP, web dev
 - ✉️ Email: [smathur_be22@thapar.edu](mailto:smathur_be22@thapar.edu)
 - 🌐 LinkedIn: [linkedin.com/in/suhani-mathur](https://linkedin.com/in/suhani-mathur)
 
 ---
 
-### 🔗 Featured Projects
-
-- [🧠 Parkinson’s Detection](https://github.com/suhanaayy/Parkinsons_detection) – Real-time eye-gaze-based detection using MediaPipe + LSTM  
-- [💊 MediMatch](https://github.com/suhanaayy/Medi_match) – Smart medicine alternative recommender  
-- [📈 Twitter Sentiment Analyzer](https://github.com/suhanaayy/Sentiment_analysis) – NLP pipeline w/ 95% accuracy on tweet data
-
----
 
 ### ⚡ Fun Fact
 
