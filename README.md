@@ -1,21 +1,15 @@
-<!-- Top Layout with Centered Text and Right GIF -->
-<table width="100%">
-  <tr>
-    <!-- Left (or centered) text -->
-    <td width="75%">
-      <h1 align="center">Hi, I'm Suhani 👩‍💻</h1>
+<!-- Meme GIF aligned right -->
+<p align="right">
+  <img src="https://media.giphy.com/media/2c1KjuCQTaZgc/giphy.gif" width="180" alt="meme gif" />
+</p>
 
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF61A6&center=true&width=435&lines=Growing+through+code." alt="Typing animation" />
-      </p>
-    </td>
+<!-- Name and animated tagline centered -->
+<h1 align="center">Hi, I'm Suhani 👩‍💻</h1>
 
-    <!-- Right-side meme GIF -->
-    <td align="right" width="25%">
-      <img src="https://media.giphy.com/media/2c1KjuCQTaZgc/giphy.gif" width="150" alt="meme gif" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61A6&width=500&lines=Driven+by+curiosity.;Learning+by+building.;Growing+through+code." alt="Typing animation" />
+</p>
+
 
 
 
