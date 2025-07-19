@@ -59,7 +59,7 @@
 
 ### 👩‍🎓 About Me
 
-- 🎓 Engineering student @Thapar Institute 
+- 🎓 Final Year Engineering student @Thapar Institute 
 - 💡 Exploring AI through real-world projects
 - 🔬 EX-SDE Intern @ Healthkart
 - ✉️ Email: [smathur_be22@thapar.edu](mailto:smathur_be22@thapar.edu)
