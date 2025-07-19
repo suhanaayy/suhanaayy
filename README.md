@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Suhani 👩‍💻</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="coding meme gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh1NTA5eDJ5ZHJ3NTlxN2FkcGVhdWp6ZXlyOXQ0bXF6MTY0d3hhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" />
+  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" alt="funny coding gif" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF61A6&width=600&lines=Driven+by+curiosity.;Learning+by+building.;Growing+through+code." alt="Typing animation" />
 </p>
+
 
 ---
 
