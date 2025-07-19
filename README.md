@@ -59,9 +59,9 @@
 
 ### 👩‍🎓 About Me
 
-- 🎓 Engineering student @ Thapar Institute (CGPA 8.49)
+- 🎓 Engineering student @Thapar Institute 
 - 💡 Exploring AI through real-world projects
-- 🔬 SDE Intern @ Healthkart (2024)
+- 🔬 EX-SDE Intern @ Healthkart
 - ✉️ Email: [smathur_be22@thapar.edu](mailto:smathur_be22@thapar.edu)
 - 🌐 LinkedIn: [linkedin.com/in/suhani-mathur](https://linkedin.com/in/suhani-mathur)
 
